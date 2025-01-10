@@ -6,6 +6,9 @@ This project is the machine learning portion of the embedded baby monitor projec
 This project was meant to be proof of concept, and it succeeded. This project has been most useful as insight to beginner machine learning enthusiasts that are learning how to create their own dataset locally, prepare and analyze the data, as well as 
 evaluate machine learning models and output.
 
+The repository for the server and firmware code for the Jetson Nano is here:
+https://github.com/Cavina/Baby_Camera_Server
+
 ## Features
 
 - **Image Processing**: Processes and classifies images of the baby to determine orientation.
